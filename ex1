@@ -1,2 +1,6 @@
 #basics python
 print("Hello World Welcome To Python")
+#2nd level
+mark1=int(input("enter the number:"))
+mark2=int(input("enter the number:"))
+print("Addition:",mark1+mark2)
