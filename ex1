@@ -4,3 +4,9 @@ print("Hello World Welcome To Python")
 mark1=int(input("enter the number:"))
 mark2=int(input("enter the number:"))
 print("Addition:",mark1+mark2)
+#3rd level
+Age=int(input("enter your age:"))
+if age<18:
+   print("minor")
+else:
+   print("major")
